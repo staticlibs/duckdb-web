@@ -108,10 +108,10 @@ docs:
 
     Download OSM extracts from [Geofabrik](https://download.geofabrik.de/)
 
-extension_star_count: 1
-extension_star_count_pretty: 1
-extension_download_count: 271
-extension_download_count_pretty: 271
+extension_star_count: 2
+extension_star_count_pretty: 2
+extension_download_count: 298
+extension_download_count_pretty: 298
 image: '/images/community_extensions/social_preview/preview_community_extension_valhalla_routing.png'
 layout: community_extension_doc
 ---

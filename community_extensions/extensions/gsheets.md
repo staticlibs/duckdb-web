@@ -69,8 +69,8 @@ docs:
 
 extension_star_count: 331
 extension_star_count_pretty: 331
-extension_download_count: 30893
-extension_download_count_pretty: 30.9k
+extension_download_count: 30688
+extension_download_count_pretty: 30.7k
 image: '/images/community_extensions/social_preview/preview_community_extension_gsheets.png'
 layout: community_extension_doc
 ---
